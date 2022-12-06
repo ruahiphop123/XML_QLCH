@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<HoaDons>
+  <HoaDon>
+    <maHD>HD00001   </maHD>
+    <ngaytao>11/01/2022</ngaytao>
+  </HoaDon>
+  <HoaDon>
+    <maHD>HD00002   </maHD>
+    <ngaytao>1/11/2022</ngaytao>
+  </HoaDon>
+  <HoaDon>
+    <maHD>HD00003   </maHD>
+    <ngaytao>1/11/2022</ngaytao>
+  </HoaDon>
+  <HoaDon>
+    <maHD>HD00004   </maHD>
+    <ngaytao>1/11/2022</ngaytao>
+  </HoaDon>
+  <HoaDon>
+    <maHD>HD00005   </maHD>
+    <ngaytao>1/11/2022</ngaytao>
+  </HoaDon>
+  <HoaDon>
+    <maHD>HD00006   </maHD>
+    <ngaytao>1/11/2022</ngaytao>
+  </HoaDon>
+  <HoaDon>
+    <maHD>HD00007   </maHD>
+    <ngaytao>1/11/2022</ngaytao>
+  </HoaDon>
+  <HoaDon>
+    <maHD>HD00008   </maHD>
+    <ngaytao>1/11/2022</ngaytao>
+  </HoaDon>
+  <HoaDon>
+    <maHD>HD00009</maHD>
+    <ngaytao>1/12/2022</ngaytao>
+  </HoaDon>
+  <HoaDon>
+    <maHD>HD00010</maHD>
+    <ngaytao>1/12/2022</ngaytao>
+  </HoaDon>
+  <HoaDon>
+    <maHD>HD00011</maHD>
+    <ngaytao>1/12/2022</ngaytao>
+  </HoaDon>
+</HoaDons>

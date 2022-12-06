@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<MonAns>
+  <MonAn>
+    <maMA>MA00001   </maMA>
+    <tenMA>Bánh mỳ xúc xích</tenMA>
+    <gia>30000</gia>
+    <maDM>DM00001   </maDM>
+  </MonAn>
+  <MonAn>
+    <maMA>MA00002   </maMA>
+    <tenMA>Bánh mỳ chả lụa</tenMA>
+    <gia>35000</gia>
+    <maDM>DM00001   </maDM>
+  </MonAn>
+  <MonAn>
+    <maMA>MA00003   </maMA>
+    <tenMA>Trà sữa plan</tenMA>
+    <gia>40000</gia>
+    <maDM>DM00003   </maDM>
+  </MonAn>
+  <MonAn>
+    <maMA>MA00004   </maMA>
+    <tenMA>Hamburger Gà</tenMA>
+    <gia>50000</gia>
+    <maDM>DM00002   </maDM>
+  </MonAn>
+  <MonAn>
+    <maMA>MA00007   </maMA>
+    <tenMA>Trà sữa Thái Xanh</tenMA>
+    <gia>40000</gia>
+    <maDM>DM00003   </maDM>
+  </MonAn>
+  <MonAn>
+    <maMA>MA00008</maMA>
+    <tenMA>Cá viên chiên</tenMA>
+    <gia>40000</gia>
+    <maDM>DM00005</maDM>
+  </MonAn>
+</MonAns>

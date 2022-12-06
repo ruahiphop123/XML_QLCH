@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NhanVienNhaHangs>
+  <NhanVienNhaHang>
+    <maNV>NV00001   </maNV>
+    <tenNV>Dương Thị Miên</tenNV>
+    <ngaysinh>21/05/2001</ngaysinh>
+    <gioitinh>Nữ</gioitinh>
+    <diachi>Quảng Nam</diachi>
+    <email>duongthimien7@gmail.com</email>
+    <sdt>0705175740</sdt>
+  </NhanVienNhaHang>
+  <NhanVienNhaHang>
+    <maNV>NV00003   </maNV>
+    <tenNV>Nguyễn Thị Hoàng Linh</tenNV>
+    <ngaysinh>16/05/2001</ngaysinh>
+    <gioitinh>Nữ</gioitinh>
+    <diachi>Quảng Ngãi</diachi>
+    <email>nguyenthihoanglinh@gmail.com</email>
+    <sdt>0825195640</sdt>
+  </NhanVienNhaHang>
+  <NhanVienNhaHang>
+    <maNV>NV00004</maNV>
+    <tenNV>Trần Thị Phương Nhi</tenNV>
+    <ngaysinh>20/05/2001</ngaysinh>
+    <gioitinh>Nữ</gioitinh>
+    <diachi>Gia Lai</diachi>
+    <email>phuongnhi@gmail.com</email>
+    <sdt>0745632721</sdt>
+  </NhanVienNhaHang>
+  <NhanVienNhaHang>
+    <maNV>NV00005</maNV>
+    <tenNV>NTĐ</tenNV>
+    <ngaysinh>08/11/2022</ngaysinh>
+    <gioitinh>Nam</gioitinh>
+    <diachi>123</diachi>
+    <email>123</email>
+    <sdt>123</sdt>
+  </NhanVienNhaHang>
+</NhanVienNhaHangs>

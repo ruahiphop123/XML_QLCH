@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<DanhMucMonAns>
+  <DanhMucMonAn>
+    <maDM>DM00001   </maDM>
+    <tenDM>Bánh Mỳ</tenDM>
+    <mota>Bánh mỳ là một món ăn nhanh phố biến ở Việt Nam.</mota>
+  </DanhMucMonAn>
+  <DanhMucMonAn>
+    <maDM>DM00002   </maDM>
+    <tenDM>Hamburger</tenDM>
+    <mota>Hamburger là một lựa chọn tuyệt vời khi bạn muốn tìm một thức ăn anh,</mota>
+  </DanhMucMonAn>
+  <DanhMucMonAn>
+    <maDM>DM00003   </maDM>
+    <tenDM>Trà Sữa</tenDM>
+    <mota>Còn gì tuyệt vời hơn một ly trà sữa vào lúc bạn mệt mỏi nhất.</mota>
+  </DanhMucMonAn>
+  <DanhMucMonAn>
+    <maDM>DM00004   </maDM>
+    <tenDM>Pizza</tenDM>
+    <mota>Pizza là một món ăn nhanh phố biến ở Việt Nam.</mota>
+  </DanhMucMonAn>
+  <DanhMucMonAn>
+    <maDM>DM00005</maDM>
+    <tenDM>Các món chiên</tenDM>
+    <mota>Các món chiên luôn luôn có sự hấp dẫn riêng</mota>
+  </DanhMucMonAn>
+</DanhMucMonAns>
